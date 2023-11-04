@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>321984015489-nf5jfc462unvfitoordjer98i89q4gja.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.321984015489-nf5jfc462unvfitoordjer98i89q4gja</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>321984015489-b726h3vh7n79njgjebfs6p5pq7gi8eoo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvsxOhdFynqPBZcrwZuNSxcC2cv7w2fyQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>321984015489</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>project.mangarank</string>
+	<key>PROJECT_ID</key>
+	<string>mangarank-e692a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mangarank-e692a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:321984015489:ios:89ee3d3eded6d2d9963180</string>
+</dict>
+</plist>

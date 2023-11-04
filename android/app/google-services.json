@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "321984015489",
+    "project_id": "mangarank-e692a",
+    "storage_bucket": "mangarank-e692a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321984015489:android:4edbcc7885d4e517963180",
+        "android_client_info": {
+          "package_name": "project.mangarank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321984015489-b726h3vh7n79njgjebfs6p5pq7gi8eoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "project.mangarank",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "321984015489-69tu8fc623qrqk66ljag116tv7vmugdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_0fAGslnGYu7F_MhSdv2bMJbF6NvrBVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321984015489-69tu8fc623qrqk66ljag116tv7vmugdv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "321984015489-nf5jfc462unvfitoordjer98i89q4gja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "project.mangarank"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
